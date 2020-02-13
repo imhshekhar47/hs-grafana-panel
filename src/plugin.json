@@ -1,0 +1,17 @@
+{
+    "id": "hs-grafana-panel",
+    "type": "panel",
+    "name": "Grafana Panel",
+    "info": {
+        "author": {
+            "name": "Himanshu Shekhar <himanshu.shekhar.in@gmail.com>"
+        },
+        "keywords": ["panel"],
+        "version": "0.0.1"
+
+    },
+    "dependencies": {
+        "grafanaVersion": "6.5.x",
+        "plugins": []
+    }
+}
